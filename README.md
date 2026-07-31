@@ -1,93 +1,108 @@
-# 🚀 Complete Artificial Intelligence & Data Science Roadmap (100% Free)
+# 🚀 Complete Artificial Intelligence & Data Science Course (100% Free)
 
-**Instructor & Maintainer:** Golam Maula Lincoln  
+**Instructor & Lead Author:** Golam Maula Lincoln  
 **GitHub:** [@gmlincoln](https://github.com/gmlincoln)  
 
-Welcome to the **Complete AI & Data Science Mastery Course**! This repository contains a comprehensive, community-driven, 100% free curriculum designed to take you from absolute beginner to production-ready AI Engineer and Data Scientist.
+Welcome to the official repository for the **Complete AI & Data Science Mastery Course**! This repository is a 100% free, full-length hands-on course. **Every single topic taught in this course includes practical code implementations, Jupyter notebooks, datasets, and projects organized inside structured folders within this repository.**
 
 ---
 
-## 🎯 Course Highlights
-- **100% Free & Open Source**: No paywalls, subscriptions, or hidden charges.
-- **Comprehensive Curriculum**: Covers Python, Math, Machine Learning, Deep Learning, GenAI, MLOps, and Cloud Deployment.
-- **Hands-on & Practical**: Filled with real-world code, minor practice tasks, and major capstone projects.
-- **Production-Ready Tools**: Learn TensorFlow, PyTorch, OpenAI APIs, Docker, Kubernetes, SQL, and Flask.
+## 🎯 Course Features
+- **100% Free & Open Source**: Full code access without paywalls or hidden fees.
+- **Hands-On Code Repository**: Organized folders for each topic containing runnable scripts, notebooks, and exercises.
+- **Complete Tech Stack**: Python, Math, Machine Learning, Deep Learning, Generative AI, MLOps, Docker, Kubernetes, and Cloud Deployment.
+- **Real-World Projects**: Complete code for minor practice tasks and end-to-end capstone applications.
 
 ---
 
-## 📚 Curriculum Structure & Modules
+## 📁 Repository Directory Structure
 
-### 🔹 Phase 1: Core Foundations
-1. **Python Programming**: Fundamentals, OOPs, Data Structures, Functional Programming, Libraries.
-2. **Data Pre-processing**: Missing value imputation, Outlier handling, Feature scaling, Normalization, Encoding.
-3. **Data Visualization**: Matplotlib, Seaborn, Plotly, Exploratory Data Analysis (EDA).
-4. **Math for AI**: Descriptive & Inferential Statistics, Probability Theory, Linear Algebra, Calculus fundamentals.
-5. **SQL for Data Science**: Joins, Aggregations, Window Functions, Database Optimization, Subqueries.
+```text
+.
+├── 01-python-programming/           # Python basics, OOP, Data Structures & Modules
+├── 02-data-preprocessing/           # Cleaning, Scaling, Imputation, Encodings
+├── 03-data-visualization-eda/       # Matplotlib, Seaborn, Plotly, Exploratory Data Analysis
+├── 04-math-for-ai/                  # Statistics, Probability, Linear Algebra & Calculus
+├── 05-sql-for-data-science/         # Database queries, Joins, Aggregations & Optimizations
+├── 06-machine-learning/             # Supervised, Unsupervised & RL algorithms
+├── 07-deep-learning/                # Neural Networks, CNNs, RNNs, Transformers & GANs
+├── 08-generative-ai-and-llms/       # OpenAI APIs, Prompt Engineering, Fine-tuning
+├── 09-rag-and-vector-dbs/           # LangChain, LlamaIndex, ChromaDB, Vector Search
+├── 10-mlops-and-deployment/         # Flask APIs, Docker containers, Kubernetes setup
+└── 11-projects-and-capstones/       # Minor practice tasks & Full-Stack Capstone Projects
 
-### 🔹 Phase 2: Machine Learning Fundamentals
-6. **Machine Learning Foundations**: Supervised vs Unsupervised vs Reinforcement Learning.
-7. **Model Evaluation Metrics**: Precision, Recall, F1-Score, ROC-AUC, Confusion Matrix, Specificity.
-8. **Bias-Variance Tradeoff**: Overfitting, Underfitting, Regularization (L1 Lasso, L2 Ridge).
-9. **Supervised Learning**: Linear & Logistic Regression, Support Vector Machines (SVM), Decision Trees, Random Forests, Gradient Boosting.
-10. **Unsupervised Learning**: K-Means Clustering, Hierarchical Clustering, Association Rule Mining (Apriori), PCA.
-11. **Reinforcement Learning**: Q-Learning, Markov Decision Processes (MDP), Environment setup.
-
-### 🔹 Phase 3: Deep Learning & Neural Networks
-12. **Perceptron & Neural Nets**: Biological vs Artificial Neuron, Activation Functions, Backpropagation.
-13. **Architectures**: Feedforward Neural Networks (FNN), Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN/LSTM/GRU).
-14. **TensorFlow Framework**: Model building with Keras/TensorFlow, Custom Layers, Training Loops, Callbacks.
-15. **Generative Adversarial Networks (GANs)**: Generator & Discriminator dynamics, Image generation.
-
-### 🔹 Phase 4: Generative AI, LLMs & Advanced NLP
-16. **Natural Language Processing (NLP)**: Tokenization, Embeddings (Word2Vec, FastText), TF-IDF, NLTK & spaCy.
-17. **Transformer Architecture**: Self-Attention mechanisms, Encoder-Decoder structures, Multi-head attention.
-18. **Generative AI & LLMs**: Fine-tuning, Prompt Engineering, Open-source & Proprietary models.
-19. **OpenAI APIs**: Integration, Function Calling, System Prompts, Structured Outputs.
-20. **Retrieval-Augmented Generation (RAG)**: Vector Databases (ChromaDB, Pinecone), LangChain/LlamaIndex, Semantic Search.
-
-### 🔹 Phase 5: MLOps, Deployment & Software Engineering
-21. **Git & GitHub**: Version Control, Branching strategies, PR workflows, CI/CD basic pipelines.
-22. **Flask (Development with AI)**: REST APIs, Serving Machine Learning & LLM models.
-23. **Docker**: Containerization, Dockerfile creation, Container orchestration concepts.
-24. **Kubernetes**: Deploying AI microservices, Scaling, Service Discovery, Cluster management.
-
-### 🔹 Phase 6: Hands-On Projects
-25. **Minor Projects**: Customer Churn Predictor, Sentiment Analyzer, Spam Classifier, Image Classification CLI.
-26. **Major Projects**:
-    - **End-to-End Enterprise RAG Agent**: Multi-document Q&A engine with citation and fallback.
-    - **Production GenAI Web App**: Full-stack Flask + React + OpenAI app containerized with Docker & K8s.
-    - **Real-time Computer Vision Pipeline**: Object detection and tracking deployed as a web service.
 
 ---
 
-## 🛠️ Tech Stack & Tools Covered
-- **Languages**: Python, SQL, Bash
-- **ML/DL Frameworks**: Scikit-Learn, TensorFlow, Keras, PyTorch
-- **GenAI / LLM**: OpenAI API, LangChain, LlamaIndex, Hugging Face, Vector DBs
-- **Deployment & MLOps**: Flask, Docker, Kubernetes, Git, GitHub Actions
+## 🎓 2. Updated Printable Course Brochure Document
+
+# 🎓 COMPLETE ARTIFICIAL INTELLIGENCE & DATA SCIENCE COURSE
+
+> **Lead Instructor:** Golam Maula Lincoln[cite: 5, 6]  
+> **GitHub Repository:** [gmlincoln/complete-ai-ml-roadmap](https://github.com/gmlincoln)[cite: 4, 5, 6]  
+> **Cost:** 100% Free & Open Source[cite: 4, 5, 6]  
+> **Format:** Code-First Hands-On Course (Notebooks, Scripts & Projects)[cite: 4, 5, 6]  
 
 ---
 
-## 🎓 How to Use This Repository
-1. **Clone the Repo**:
-   ```bash
-   git clone https://github.com/gmlincoln/complete-ai-ml-roadmap.git
-   cd complete-ai-ml-roadmap
-   ```
-2. **Setup Virtual Environment**:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   pip install -r requirements.txt
-   ```
+## 📌 Course Structure
+
+This hands-on course provides **complete code implementations for every single topic covered**[cite: 4, 5, 6]. All lessons, practice tasks, datasets, and projects are organized into clear folders within the main repository[cite: 4, 5, 6].
 
 ---
 
-## 👤 Author & Instructor
-**Golam Maula Lincoln**  
-- **GitHub**: [@gmlincoln](https://github.com/gmlincoln)
+## 📚 Complete Course Curriculum & Code Folders
+
+### 🔹 Module 1: Programming & Data Foundations (`01` – `05`)
+* **Python Programming:** Syntax, OOP, Data Structures, Lambdas, Functional Programming[cite: 4, 5].
+* **Data Pre-processing:** Missing value imputation, Outlier handling, Feature scaling, Encodings[cite: 4, 5].
+* **Data Visualization & EDA:** Matplotlib, Seaborn, Interactive Plotly, Exploratory Data Analysis[cite: 4, 5].
+* **SQL for Data Science:** Queries, Joins, Aggregations, Window Functions, Performance Optimization[cite: 4, 5].
 
 ---
 
-## 📄 License
-This project is licensed under the MIT License - free to use, modify, and distribute for everyone.
+### 🔹 Module 2: Mathematics for AI & Core ML (`04`, `06`)
+* **Math for AI:** Descriptive & Inferential Statistics, Probability, Linear Algebra, Calculus[cite: 4, 5].
+* **Evaluation Metrics:** Precision, Recall, F1-Score, ROC-AUC, Confusion Matrix, MSE[cite: 4, 5].
+* **Supervised Learning:** Linear & Logistic Regression, Support Vector Machines (SVM), Decision Trees, Random Forests, Gradient Boosting[cite: 4, 5].
+* **Unsupervised Learning:** K-Means Clustering, Hierarchical Clustering, Apriori Algorithm, PCA[cite: 4, 5].
+* **Reinforcement Learning:** Agents, Environments, Reward Mechanisms, Q-Learning, MDP[cite: 4, 5].
+
+---
+
+### 🔹 Module 3: Deep Learning & Architectures (`07`)
+* **Neural Network Foundations:** Biological vs Artificial Neurons, Activations, Backpropagation[cite: 4, 5].
+* **Architectures:** Feedforward Networks (FNN), Convolutional Networks (CNN), Recurrent Networks (RNN/LSTM)[cite: 4, 5].
+* **Frameworks & GANs:** Model pipelines with TensorFlow/Keras, Custom Layers, Generative Adversarial Networks (GAN)[cite: 4, 5].
+
+---
+
+### 🔹 Module 4: Generative AI, LLMs & Advanced NLP (`08`, `09`)
+* **NLP Foundations:** Tokenization, Word Embeddings (Word2Vec, FastText), TF-IDF, NLTK/spaCy[cite: 4, 5].
+* **Transformer Architecture:** Self-Attention Mechanism, Multi-Head Attention, Encoders, Decoders[cite: 4, 5].
+* **Generative AI & LLMs:** Prompt Engineering, Fine-tuning, Open-source LLMs[cite: 4, 5].
+* **OpenAI API Integration:** Function Calling, System Prompts, Structured Outputs[cite: 4, 5].
+* **Retrieval-Augmented Generation (RAG):** Vector Databases (ChromaDB, Pinecone), LangChain, LlamaIndex[cite: 4, 5].
+
+---
+
+### 🔹 Module 5: MLOps & Production Engineering (`10`)
+* **API Development:** Building REST APIs with Flask/FastAPI to serve AI models[cite: 4, 5].
+* **Containerization & Orchestration:** Dockerfiles, Docker Compose, Kubernetes Clusters, Pods, Auto-scaling[cite: 4, 5].
+* **Version Control & CI/CD:** Git, GitHub Flow, CI/CD basic pipelines[cite: 4, 5].
+
+---
+
+### 🔹 Module 6: Projects & Capstones (`11`)
+* **Minor Practice Projects:** Customer Churn Predictor, Sentiment Analyzer, Spam Classifier, Image Classifier[cite: 4, 5].
+* **Major Capstone Projects:**
+  1. **Enterprise Multi-Document RAG Agent:** Vector Search with LangChain, ChromaDB, OpenAI APIs, and citation guardrails[cite: 4, 5].
+  2. **Full-Stack Containerized GenAI App:** Flask + React + OpenAI app containerized with Docker & Kubernetes[cite: 4, 5].
+
+---
+
+## 👤 Instructor & License
+
+* **Lead Instructor:** Golam Maula Lincoln[cite: 5, 6]
+* **GitHub:** [https://github.com/gmlincoln](https://github.com/gmlincoln)[cite: 4, 5, 6]
+* **License:** MIT License — Free to use, fork, and distribute[cite: 4, 5, 6]

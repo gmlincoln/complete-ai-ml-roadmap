@@ -1,7 +1,7 @@
 # 🚀 Complete Artificial Intelligence & Data Science Roadmap (100% Free)
 
 **Instructor & Maintainer:** Golam Maula Lincoln  
-**GitHub:** [@Golam-Maula-Lincoln](https://github.com/gmlincoln)  
+**GitHub:** [@gmlincoln](https://github.com/gmlincoln)  
 
 Welcome to the **Complete AI & Data Science Mastery Course**! This repository contains a comprehensive, community-driven, 100% free curriculum designed to take you from absolute beginner to production-ready AI Engineer and Data Scientist.
 
@@ -71,5 +71,23 @@ Welcome to the **Complete AI & Data Science Mastery Course**! This repository co
 ## 🎓 How to Use This Repository
 1. **Clone the Repo**:
    ```bash
-   git clone [https://github.com/Golam-Maula-Lincoln/complete-ai-ml-roadmap.git](https://github.com/gmlincoln/complete-ai-ml-roadmap.git)
+   git clone https://github.com/gmlincoln/complete-ai-ml-roadmap.git
    cd complete-ai-ml-roadmap
+   ```
+2. **Setup Virtual Environment**:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   pip install -r requirements.txt
+   ```
+
+---
+
+## 👤 Author & Instructor
+**Golam Maula Lincoln**  
+- **GitHub**: [@gmlincoln](https://github.com/gmlincoln)
+
+---
+
+## 📄 License
+This project is licensed under the MIT License - free to use, modify, and distribute for everyone.

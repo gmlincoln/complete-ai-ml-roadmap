@@ -30,7 +30,7 @@ Welcome to the official repository for the **Complete AI & Data Science Mastery 
 ├── 09-rag-and-vector-dbs/           # LangChain, LlamaIndex, ChromaDB, Vector Search
 ├── 10-mlops-and-deployment/         # Flask APIs, Docker containers, Kubernetes setup
 └── 11-projects-and-capstones/       # Minor practice tasks & Full-Stack Capstone Projects
-
+```
 
 ---
 
